@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home:const InitialScreen() // Coloque const aqui também pra melhorar
+      home:const InitialScreen() 
     );
   }
 }
