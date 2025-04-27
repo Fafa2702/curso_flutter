@@ -75,7 +75,7 @@ class _TasksState extends State<Tasks> {
                                   fontSize: 24,
                                   overflow: TextOverflow.ellipsis),
                             ),
-                          ),                          // vai ser um novo componente.
+                          ),                       
                         ],
                       ),
                       Padding(
